@@ -1,0 +1,41 @@
+pre > .pl-k {
+    color: #ae98ff;
+}
+
+pre > .pl-en {
+    color: #07ff8b;
+}
+
+pre > .pl-c1 {
+    color: #ff83d6;
+}
+
+pre > .pl-s1 {
+    color: #fffc61;
+}
+
+pre > .pl-kos {
+    color: #15b800;
+}
+
+pre > .pl-s {
+    color: #776dff;
+}
+
+pre > .pl-c {
+    color: #31882e;
+}
+
+pre > .pl-smi {
+    color: #d1ff53;
+}
+
+.highlight {
+    background-color: #000e2b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    color: honeydew;
+}
